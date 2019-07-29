@@ -7,3 +7,5 @@ const multiply = var1 * var2;
 const random = Math.random(0);
 
 const mod = 54 % 25;
+
+const max = Math.max(1, 5, 10, 20, 19);
