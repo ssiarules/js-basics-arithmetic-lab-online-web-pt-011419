@@ -1,9 +1,7 @@
 // Write your code here
 
 
-var multiply = var1 * var2;
+const multiply = var1 * var2;
 
-var1 = 31;
-var2 = 2;
-
-Math.random()
+const var1 = 31;
+const var2 = 2;
